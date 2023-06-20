@@ -2,15 +2,13 @@ import React from "react";
 
 function article_1() {
 	return {
-		date: "7 May 2023",
-		title: "The Benefits of Cloud Computing",
+		date: "6 May 2022",
+		title: "The importance of UI and UX design",
 		description:
-			"Cloud computing offers a range of benefits, including cost savings and increased flexibility. Find out why more businesses are turning to the cloud.",
+			"With the technological advancement in the 21st-century, everybody wants to experience the best technology without spending too much of their time and exhausting their busy brains. ",
 		keywords: [
-			"The Benefits of Cloud Computing",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"The importance of UI and UX design",
+			
 		],
 		style: `
 				.article-content {
@@ -26,14 +24,7 @@ function article_1() {
 				`,
 		body: (
 			<React.Fragment>
-				<div className="article-content">
-					<div className="paragraph">Content of article 1</div>
-					<img
-						src="https://picsum.photos/200/300"
-						alt="random"
-						className="randImage"
-					/>
-				</div>
+				<h1><a href="https://www.igexsolutions.com/blog/the-importance-of-ui-ux-design/">link to article</a></h1>
 			</React.Fragment>
 		),
 	};
@@ -41,20 +32,18 @@ function article_1() {
 
 function article_2() {
 	return {
-		date: "7 May 2023",
-		title: "Artificial Intelligence in Healthcare",
+		date: "May 7, 2022",
+		title: "Frontend Architecture at Scale for Large Organizations",
 		description:
-			"AI is transforming the healthcare industry, from improving patient outcomes to streamlining operations. Discover the latest applications of this game-changing technology.",
+			"How to manage Frontend architecture in large organizations?",
 		style: ``,
 		keywords: [
-			"Artificial Intelligence in Healthcare",
-			"Tharindu",
-			"Tharindu N",
-			"Tharindu Nayanajith",
+			"How to manage Frontend architecture in large organizations?",
+			
 		],
 		body: (
 			<React.Fragment>
-				<h1>Content of article 2</h1>
+				<h1><a href="https://medium.com/swlh/frontend-architecture-in-scale-for-large-organizations-593930ed10cd">link to article</a></h1>
 			</React.Fragment>
 		),
 	};

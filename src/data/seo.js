@@ -2,36 +2,36 @@ const SEO = [
 	{
 		page: "home",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"Welcome to my portfolio as a Beginner React Web Developer. Here, I showcase my projects and progress in building interactive web applications using React. Through my work, I have gained a strong foundation in React's core concepts, including component-based architecture, state management, and reusable UI components.",
+		keywords: ["Boris", "Boris A", "Boris Angelov"],
 	},
 
 	{
 		page: "about",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I'm Boris Michael Angelov and I am a begginer full stack web developer",
+		keywords: ["Boris", "Boris A", "Boris Angelov"],
 	},
 
 	{
 		page: "articles",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"I'm passionate about innovation in UI and UX design.",
+		keywords: ["Boris", "Boris A", "Boris Angelov"],
 	},
 
 	{
-		page: "projects",
+		page: "An example project",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+			"A simple calculator I built using react to showcase my skills.",
+		keywords: ["Boris", "Boris A", "Boris Angelov"],
 	},
 
 	{
 		page: "contact",
 		description:
 			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
+		keywords: ["Boris", "Boris A", "Boris Angelov"],
 	},
 ];
 
