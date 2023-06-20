@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur gardener.",
+		title: "Full-stack web and mobile app developer.",
 		description:
 			"Welcome to my portfolio as a Beginner React Web Developer. Here, I showcase my projects and progress in building interactive web applications using React. Through my work, I have gained a strong foundation in React's core concepts, including component-based architecture, state management, and reusable UI components.",
 	},
